@@ -1,0 +1,3 @@
+﻿  WorkManger.cpp
+C:\Users\Yuan\source\repos\职工管理系统\WorkManger.cpp(327): warning C4715: “WorkManger::IsExist_Emp”: 不是所有的控件路径都返回值
+  职工管理系统.vcxproj -> C:\Users\Yuan\source\repos\职工管理系统\x64\Debug\职工管理系统.exe
